@@ -1,0 +1,19 @@
+body{
+    background-color: burlywood;
+}
+
+#score{
+    font-size: large;
+    margin-left: 250px;
+    float:left;
+}
+
+#timer{
+    font-size: large;
+    margin-right: 250px;
+    float: right;
+}
+
+#drawn_sketch{
+    color: crimson;
+}
